@@ -62,3 +62,7 @@ contra: clave123456
 
 correo: emanuel.carasco@correo.cl
 contra: 12345678900
+
+
+12. si no deja hacer conexxion abra powershell y ejecute esto
+    C:\Users\howl\AppData\Local\Android\Sdk\platform-tools\adb.exe reverse tcp:8000 tcp:8000
