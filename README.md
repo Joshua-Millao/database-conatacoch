@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 7. Instala la nueva librería
 
-python -m pip install Django==5.0.14 djangorestframework==3.15.2
+python -m pip install Django==5.0.14 djangorestframework==3.15.2 djangorestframework-simplejwt
 
 
 8. Levantar los servicios de XAMPP
